@@ -28,7 +28,7 @@ A full-stack microservice application to shorten URLs, track analytics, and log 
 ---
 
 ## 🗂️ Folder Structure
-
+```bash
 /12217521/
 ├── logging-middleware/ # Shared log utility
 │ ├── log.ts
@@ -43,7 +43,7 @@ A full-stack microservice application to shorten URLs, track analytics, and log 
 │ ├── src/
 │ └── ...
 └── README.md
-
+```
 ---
 
 ## 🛠️ Getting Started
