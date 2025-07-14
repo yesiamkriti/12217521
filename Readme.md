@@ -138,11 +138,13 @@ POST http://20.244.56.144/evaluation-service/logs
 
 ## ✅ Postman requests/responses for backend
 
+![Alt Text](https://github.com/yesiamkriti/12217521/blob/main/frontend/public/test-backend.png)
 ## ✅ Frontend screenshots
 
 ![Alt Text](https://github.com/yesiamkriti/12217521/blob/main/frontend/public/url-mainpage.png)
 
 ## ✅ Click stats page and log entries
+![Alt Text](https://github.com/yesiamkriti/12217521/blob/main/frontend/public/stats.png)
 
 📜 License
 This project is submitted solely for evaluation under the Affordmed Full Stack Internship Challenge. Not intended for production use.
