@@ -1,0 +1,61 @@
+.stats-page {
+  width: 90%;
+  max-width: 800px;
+  margin: 40px auto;
+  font-family: Arial, sans-serif;
+}
+
+.stat-block {
+  background: #f7f7f7;
+  padding: 20px;
+  margin-bottom: 25px;
+  border-radius: 8px;
+  border-left: 5px solid #2196f3;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  word-break: break-word;
+}
+
+.stat-block h3 {
+  margin-top: 0;
+  font-size: 18px;
+  overflow-wrap: break-word;
+}
+
+.stat-block a {
+  color: #1976d2;
+  text-decoration: none;
+  word-break: break-word;
+}
+
+.stat-block a:hover {
+  text-decoration: underline;
+}
+
+.stat-block p {
+  margin: 5px 0;
+  line-height: 1.5;
+}
+
+.click-table {
+  margin-top: 15px;
+  overflow-x: auto;
+}
+
+.click-table table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 14px;
+}
+
+.click-table th, .click-table td {
+  padding: 10px;
+  border: 1px solid #ddd;
+  text-align: left;
+  vertical-align: top;
+  word-break: break-word;
+}
+
+.click-table th {
+  background-color: #e0e0e0;
+}
