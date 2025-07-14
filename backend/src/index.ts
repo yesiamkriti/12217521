@@ -4,7 +4,7 @@ import dotenv from 'dotenv';
 import cors from 'cors';
 import { logger } from './middleware/logger';
 import urlRoutes from './routes/urlRoutes';
-import { handleRedirect } from './controllers/urlController';
+import { handleRedirect } from './controllers/handleRedirect';
 
 dotenv.config();
 
