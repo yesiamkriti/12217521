@@ -134,13 +134,15 @@ message: Descriptive event message
 
 POST http://20.244.56.144/evaluation-service/logs
 
-# 🧪 Screenshots
+## 🧪 Screenshots
 
-# ✅ Postman requests/responses for backend
+## ✅ Postman requests/responses for backend
 
-# ✅ Frontend screenshots (desktop + mobile)
+## ✅ Frontend screenshots
 
-# ✅ Click stats page and log entries
+![Alt Text](https://github.com/yesiamkriti/12217521/blob/main/frontend/public/url-mainpage.png)
+
+## ✅ Click stats page and log entries
 
 📜 License
 This project is submitted solely for evaluation under the Affordmed Full Stack Internship Challenge. Not intended for production use.
