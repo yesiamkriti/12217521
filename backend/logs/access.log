@@ -49,3 +49,7 @@
 2025-07-14T09:45:46.750Z | GET /shorturls/a81fb3
 2025-07-14T09:45:46.753Z | GET /shorturls/a5eb9d
 2025-07-14T09:45:46.849Z | GET /shorturls/a5eb9d
+2025-07-14T16:36:31.359Z | POST /shorturls/
+2025-07-14T16:36:37.431Z | GET /shorturls/r/shama
+2025-07-14T16:36:56.699Z | GET /shorturls/shama
+2025-07-14T16:36:56.808Z | GET /shorturls/shama
